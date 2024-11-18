@@ -1,0 +1,10 @@
+.Grandpa div,
+.common {
+  border: 2px solid red;
+  margin: 5px;
+}
+
+.flex {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
